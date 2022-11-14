@@ -121,3 +121,15 @@ i.fa-solid .fa-magnifying-glass::before{
     color:#FF4BAD;
     
 }
+
+.questions{
+   
+    width: 700px;
+    height: 400px;
+    border:1px solid black;
+    border-radius: 10px;
+    overflow-y: scroll;
+    background-color: azure;
+   
+
+}
